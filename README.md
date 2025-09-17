@@ -38,12 +38,12 @@ I’m passionate about turning **complex problems into intuitive solutions**, wh
 - Outcomes: **10k+ pages/month crawled with <1% failures, 60% less manual effort, 99.9% uptime**  
 
 ### 🔹 [CereBulb](#) – Industrial IoT Analytics Platform  
-- Real-time ingestion of **12k+ telemetry tags/sec** with FastAPI + Kafka  
+- Real-time ingestion of **12k+ PI tags/sec** with Python, FastAPI, Numpy, Pandas, Multiprocessing with Javscript framwork based Dashboard on React and Angular
 - Hybrid anomaly detection (statistical + ML models) for predictive maintenance  
 - Achieved **35% fewer false positives, <200ms dashboard latency, 99.95% uptime**  
 
 ### 🔹 [ScaleTeam](#) – SaaS Data Integration & Analytics  
-- ETL pipelines + connector SDK integrating **25+ CRMs/marketing APIs**  
+- ETL pipelines + connector python SDK integrating **25+ CRMs/marketing APIs**  
 - OLAP warehouse with Postgres, materialized views, and SSR dashboards in Next.js  
 - Results: **New connectors in 3 days (down from 10), 99.8% ETL success, <200ms API latency**  
 
