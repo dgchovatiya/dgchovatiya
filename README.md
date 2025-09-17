@@ -32,8 +32,8 @@ I’m passionate about turning **complex problems into intuitive solutions**, wh
 
 ## 📂 Featured Projects  
 
-### 🔹 [JazzB AI](#) – AI Marketing Platform for Local Businesses  
-- Python + React platform for **SEO audits, AI content generation, and social publishing**  
+### 🔹 [JazzB AI](#) – A-Z AI Marketing Platform for Local Businesses 
+- Python + React + LLM  AI platform for digital marketing tools **SEO/GEO, AI content generation, and social publishing / Analytics**  for business.
 - Built end-to-end ETL pipelines, RAG retrieval with **Qdrant**, and geospatial analytics with PostGIS  
 - Outcomes: **10k+ pages/month crawled with <1% failures, 60% less manual effort, 99.9% uptime**  
 
