@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Denish Chovatiya  
 
-🚀 **Full-Stack Software Engineer** | Python • React • Cloud • AI/LLMs  
+🚀 **Full-Stack Software Engineer** | Python • Javascript • SQL/NoSQL • Cloud • AI/LLMs  
 📍 Austin, TX | ✉️ [denishkumarchovatiya@gmail.com](mailto:denishkumarchovatiya@gmail.com)  
 
 ---
